@@ -1,0 +1,19 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Andrew <andrew.zaitsev.crtr@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/app1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
